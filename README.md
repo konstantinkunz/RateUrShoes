@@ -1,1 +1,3 @@
 # RateUrShoes
+
+#start awesome stuff
